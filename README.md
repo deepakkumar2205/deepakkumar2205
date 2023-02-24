@@ -31,7 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar2205&" alt="deepakkumar2205" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
- 
-  <img alt="github-snake" src="github-snake.svg">
+  <img alt="github-snake" src="github-snake-dark.svg">
 </picture>
