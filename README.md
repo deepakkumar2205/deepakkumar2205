@@ -29,3 +29,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar2205&show_icons=true&locale=en" alt="deepakkumar2205" /></p><br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar2205&" alt="deepakkumar2205" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+ 
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
