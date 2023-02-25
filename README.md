@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Html, CSS , React , Node , MongoDB , Express**
 
+- 📑 Resume  [s-u.netlify.app/resume](https://s-u.netlify.app/resume)
+
 - 📫 How to reach me **dk44861@gmail.com**
 
 - ⚡ Fun fact **I am funny😉**
