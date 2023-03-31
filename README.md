@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **Html, CSS , React , Node , MongoDB , Express**
 
-- 📑 Resume  [s-u.netlify.app/resume](https://s-u.netlify.app/resume)
+- 📑 Resume  [click me](https://drive.google.com/file/d/1tJ5GJLgRpEKk-Rtmo3PuWgeKUsuEXoUC/view?usp=sharing)
 
 - 📫 How to reach me **dk44861@gmail.com**
 
-- ⚡ Fun fact **I am funny😉**
+- ⚡ Hobbys **Playing Typing game, Traveling, Watching/Reading science facts...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
