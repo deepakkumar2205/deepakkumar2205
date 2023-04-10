@@ -7,11 +7,12 @@
 
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Html, CSS , React , Node , MongoDB , Express**
 
-- 📑 Resume  [click me](https://drive.google.com/file/d/1tJ5GJLgRpEKk-Rtmo3PuWgeKUsuEXoUC/view?usp=sharing)
+- 📑 Resume  [click me](https://drive.google.com/file/d/1E7N752ramUQeU1xJGo_w_ZyI9ki9r1iV/view?usp=sharing)
 
 - 📫 How to reach me **dk44861@gmail.com**
 
@@ -19,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-kumar-87632b139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kumar-87632b139/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepakkumar-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kumar-87632b139/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
