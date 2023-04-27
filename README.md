@@ -12,7 +12,9 @@
 
 - 💬 Ask me about **Html, CSS , React , Node , MongoDB , Express**
 
-- 📑 Resume  [click me](https://drive.google.com/file/d/1E7N752ramUQeU1xJGo_w_ZyI9ki9r1iV/view?usp=sharing)
+- 📑 Resume  [click here](https://drive.google.com/file/d/1E7N752ramUQeU1xJGo_w_ZyI9ki9r1iV/view?usp=sharing)
+
+- 📑 My Portfolio  [click here](https://deepak2205-portfolio.netlify.app)
 
 - 📫 How to reach me **dk44861@gmail.com**
 
